@@ -59,7 +59,7 @@ server.post("/card", (req, res) => {
     response.success = true;
     response.cardURL =
       process.env.NODE_ENV === "production"
-        ? `https://project-promo-o-module4-team1.herokuapp.com/card/${data.id}`
+        ? `https://copy-paste-tarjetas-visita.herokuapp.com/card/${data.id}`
         : `http://localhost:4000/card/${data.id}`;
   }
 
