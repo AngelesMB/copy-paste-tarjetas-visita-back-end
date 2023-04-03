@@ -10,8 +10,6 @@
 
 En este proyecto vamos a desarrollar nuestro primer servidor web.
 
-👉 **[copy-paste-tarjetas-visita.herokuapp.com](https://copy-paste-tarjetas-visita.herokuapp.com/)**
-
 ## Objetivos
 
 - Consolidar el aprendizaje de las tecnologías **Node JS** y **Express JS**: escuchar peticiones desde el navegador.
